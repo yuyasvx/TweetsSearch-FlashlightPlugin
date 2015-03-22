@@ -6,7 +6,9 @@ OS X YosemiteのSpotlight検索を拡張する[“Flashlight”](http://flashlig
 
 ツイート検索するだけでしょ？と思った方。たしかにそれだけです。
 
-が、Twitter公式の検索の性能って微妙だったりしませんか？例えば表記ゆれを考慮した検索をしてくれない等。Yahoo!リアルタイム検索でのツイート検索は、ある程度そういったものを考慮した検索をしてくれるので、Twitter公式の検索とは得られるものが違ったりします。また、テレビ放送に関するツイートもYahoo!リアルタイム検索であれば簡単に調べられます。
+が、Twitter公式の検索の性能って微妙だったりしませんか？例えば表記ゆれを考慮した検索をしてくれない等。
+
+Yahoo!リアルタイム検索でのツイート検索は、ある程度そういったものを考慮した検索をしてくれるので、Twitter公式の検索とは得られるものが違ったりします。また、テレビ放送に関するツイートもYahoo!リアルタイム検索であれば簡単に調べられます。
 
 ## ダウンロードとインストール
 
@@ -24,7 +26,8 @@ OS X YosemiteのSpotlight検索を拡張する[“Flashlight”](http://flashlig
 
 ### 例
 
-**“tw MacBook”**・・・Twitter公式で“MacBook”のツイート検索  
+**“ytw MacBook”**・・・Yahoo!リアルタイム検索で“MacBook”を検索  
+**“tw りんご”**・・・Twitter公式で“りんご”を検索  
 **“tvch 5”**・・・テレビ朝日の放送に関するツイートをYahoo!リアルタイム検索する
 
 ![スクリーンショット](https://raw.githubusercontent.com/yuyasvx/TweetsSearch-FlashlightPlugin/master/content/Screenshot.png)
