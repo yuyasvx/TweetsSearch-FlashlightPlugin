@@ -1,0 +1,13 @@
+{
+  "categories" : [
+    "Utilities"
+  ],
+  "displayName" : "ツイート検索",
+  "name" : "tweets-search",
+  "description" : "TwitterやYahoo!リアルタイム検索でツイートを検索します",
+  "examples" : [
+    "tw #フォロワーが体験した事が無さそうな体験",
+    "ytw ニュース",
+    "tvch 1"
+  ]
+}

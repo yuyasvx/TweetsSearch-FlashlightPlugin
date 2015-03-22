@@ -1,0 +1,3 @@
+tw ~twitterquery(sq)
+ytw ~twitterquery(sq)
+tvch ~twitterquery(sq)
