@@ -10,9 +10,11 @@ OS X YosemiteのSpotlight検索を拡張する[“Flashlight”](http://flashlig
 
 ## ダウンロードとインストール
 
-ダウンロードはこちらからどうぞ。
+ダウンロードは[こちら](https://github.com/yuyasvx/TweetsSearch-FlashlightPlugin/archive/master.zip)からどうぞ。
 
-インストールは、“~/Library/FlashlightPlugins/”にダウンロードしたバンドルをぶっこめばおしまいです。
+###インストール
+
+ダウンロードしたZipを解凍して出てくる“tweets-search.bundle” を “~/Library/FlashlightPlugins/”にぶっこめばおしまいです。
 
 ## 使い方
 
