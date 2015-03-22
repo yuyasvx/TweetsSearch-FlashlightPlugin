@@ -26,3 +26,5 @@ OS X YosemiteのSpotlight検索を拡張する[“Flashlight”](http://flashlig
 
 **“tw MacBook”**・・・Twitter公式で“MacBook”のツイート検索  
 **“tvch 5”**・・・テレビ朝日の放送に関するツイートをYahoo!リアルタイム検索する
+
+![スクリーンショット](https://raw.githubusercontent.com/yuyasvx/TweetsSearch-FlashlightPlugin/master/content/Screenshot.png)
