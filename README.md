@@ -30,4 +30,8 @@ OS X YosemiteのSpotlight検索を拡張する[“Flashlight”](http://flashlig
 **“tw りんご”**・・・Twitter公式で“りんご”を検索  
 **“tvch 5”**・・・テレビ朝日の放送に関するツイートをYahoo!リアルタイム検索する
 
+**注意：多言語表示には対応していません。というか、どうやって対応すれば良いのやら...**
+
+ライセンスはApache License 2.0です。
+
 ![スクリーンショット](https://raw.githubusercontent.com/yuyasvx/TweetsSearch-FlashlightPlugin/master/content/Screenshot.png)
