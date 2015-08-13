@@ -14,6 +14,8 @@ OS X YosemiteのSpotlight検索を拡張する[“Flashlight”](http://flashlig
 
 ダウンロードは[こちら](https://github.com/yuyasvx/TweetsSearch-FlashlightPlugin/archive/master.zip)からどうぞ。
 
+※OS X Yosemite 10.10.4では、EasySIMBLが動かなくなったせいで、Flashlightも動かなくなりました。SIMBLをインストールしてごにょごにょ設定すれば改善します。[この記事 (英語)](https://gist.github.com/selaromi/59666a71387d39b5bfac) に記載されていますので、併せてチェックしてください。
+
 ###インストール
 
 ダウンロードしたZipを解凍して出てくる“tweets-search.bundle” を “~/Library/FlashlightPlugins/”にぶっこめばおしまいです。
